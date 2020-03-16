@@ -81,3 +81,20 @@ The "node_modules"-folder is where the libraries that are needed to build vue ar
 "store.js" is for Vuex
 
 The "package-json" helps npm identify this projects and handle its dependencies.
+
+## VSCode extention for Vue development
+
+### Vetur
+
+The Vetur extention highlights html and javascript code in .vue files. 
+
+Shortcuts for Vetur:
+
+To search for a file we want to open:
+```
+ctrl + p
+```
+Now type the files name and press enter when higlighted.
+
+
+
